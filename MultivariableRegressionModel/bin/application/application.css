@@ -1,0 +1,32 @@
+.button{
+	transition-duration: 0.4s;
+	-fx-text-fill: black;
+	-fx-border: 1px;
+	-fx-border-color: black;
+	-fx-background-color: white;
+	-fx-border-radius: 1px;
+}
+.text-area{
+		transition-duration: 0.4s;
+	-fx-text-fill: black;
+	-fx-border: 1px;
+	-fx-border-color: black;
+	-fx-background-color: white;
+	-fx-border-radius: 1px;
+}
+.text-field{
+		transition-duration: 0.4s;
+	-fx-text-fill: black;
+	-fx-border: 1px;
+	-fx-border-color: black;
+	-fx-background-color: white;
+	-fx-border-radius: 1px;
+}
+.button:hover {
+  -fx-background-color: #87CEEB; /* Green */
+  -fx-color: white;
+}
+
+.root { /* background */
+	-fx-background-color: #F5F5F5;
+	}
