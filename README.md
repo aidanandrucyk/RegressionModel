@@ -6,14 +6,10 @@ Created the GUI using the JavaFX library as well as CSS for styling and Gluon’
 
 Approximately >2,000 lines of code between Java, CSS, and FXML files.
 
-
-
+# Abbreviated Demo:
 The [**extensive explanation**](https://github.com/aidanandrucyk/RegressionModel/blob/master/RegressionReport/RegressionModelReadMe.pdf) of the project can be found under the RegressionReport folder.
 
 
-
-
-# Abbreviated Demo:
 Home Launcher
 ![Launcher](https://github.com/aidanandrucyk/RegressionModel/blob/master/RegressionReport/img/mainPage.png)
 
