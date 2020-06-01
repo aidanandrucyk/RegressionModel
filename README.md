@@ -4,10 +4,18 @@ Independently built java application that uses least-squares approximation to ge
 Created the GUI using the JavaFX library as well as CSS for styling and Gluon’s SceneBuilder for handling FXML.
 Approximately >2,000 lines of code between Java, CSS, and FXML files.
 
-The extensive explanation of the project can be found under the [RegressionReport](https://github.com/aidanandrucyk/RegressionModel/tree/master/RegressionReport) folder.
+The [**extensive explanation**](https://github.com/aidanandrucyk/RegressionModel/tree/master/RegressionReport) of the project can be found under the RegressionReport folder.
 
-Here is an abbreviated version below:
+**Below is an abbreviated demo:**
+
+Home Launcher
 ![Launcher](https://github.com/aidanandrucyk/RegressionModel/blob/master/RegressionReport/img/mainPage.png)
-![Launcher](https://github.com/aidanandrucyk/RegressionModel/blob/master/RegressionReport/img/regPage.png)
-![Launcher](https://github.com/aidanandrucyk/RegressionModel/blob/master/RegressionReport/img/linAlgPage.png)
-![Launcher](https://github.com/aidanandrucyk/RegressionModel/blob/master/RegressionReport/img/calcPage.png)
+
+Regression Model Toolkit
+![Regression](https://github.com/aidanandrucyk/RegressionModel/blob/master/RegressionReport/img/regPage.png)
+
+Linear Algebra Operations
+![LinearAlgebra](https://github.com/aidanandrucyk/RegressionModel/blob/master/RegressionReport/img/linAlgPage.png)
+
+Calculator
+![BasicCalculator](https://github.com/aidanandrucyk/RegressionModel/blob/master/RegressionReport/img/calcPage.png)
