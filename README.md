@@ -4,9 +4,9 @@ Independently built java application that uses least-squares approximation to ge
 
 Created the GUI using the JavaFX library as well as CSS for styling and Gluon’s SceneBuilder for handling FXML.
 
-Approximately >2,000 lines of code between Java, CSS, and FXML files.
+Approximately [**>2,000 lines of code between Java, CSS, and FXML files**](https://github.com/aidanandrucyk/RegressionModel/tree/master/MultivariableRegressionModel/src/application).
 
-Main Code: RegressionModel/MultivariableRegressionModel/src/application/
+
 
 # Abbreviated Demo:
 The [**extensive explanation**](https://github.com/aidanandrucyk/RegressionModel/blob/master/RegressionReport/RegressionModelReadMe.pdf) of the project can be found under the RegressionReport folder.
