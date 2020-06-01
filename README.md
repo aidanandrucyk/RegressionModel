@@ -13,7 +13,7 @@ The [**extensive explanation**](https://github.com/aidanandrucyk/RegressionModel
 
 
 
-**Below is an abbreviated demo:**
+# Abbreviated Demo:
 Home Launcher
 ![Launcher](https://github.com/aidanandrucyk/RegressionModel/blob/master/RegressionReport/img/mainPage.png)
 
