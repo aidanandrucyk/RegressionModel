@@ -8,7 +8,7 @@ Approximately >2,000 lines of code between Java, CSS, and FXML files.
 
 
 
-The [**extensive explanation**](https://github.com/aidanandrucyk/RegressionModel/tree/master/RegressionReport) of the project can be found under the RegressionReport folder.
+The [**extensive explanation**](https://github.com/aidanandrucyk/RegressionModel/blob/master/RegressionReport/RegressionModelReadMe.pdf) of the project can be found under the RegressionReport folder.
 
 
 
