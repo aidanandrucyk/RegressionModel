@@ -1,4 +1,4 @@
-# Regression Model ToolKit
+# Regression Analysis Description
 
 Independently built java application that uses least-squares approximation to generate a linear regression model given explanatory variables, synthesizing concepts from linear algebra and statistics to output the least-squares-regression-line equation, covariance matrix, and coefficients of correlation and determination. 
 
